@@ -1,0 +1,51 @@
+Maintain_BeginTime|2018/11/15 15:23:01
+Maintain_OperatorID|IB8
+Host_BeginTime|2018/11/15 15:23:08
+Host_ComputerName|8-A691
+Host_ComputerManufacturer|ASUSTeK COMPUTER INC.
+Host_ComputerModel|VM62
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| VM62 SN:1A01A0801100307
+Host_BoardManufacturer|ASUSTeK COMPUTER INC.
+Host_BoardModel|
+Host_BoradProduct|VM62
+Host_BoradVersion|To be filled by O.E.M.
+Host_CPUName|Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+Host_Lan_CardName|Realtek PCIe GBE Family Controller
+Host_MACAddress|10:C3:7B:A1:0F:6B
+Host_IPAddress|192.44.18.109
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2017/01/13 
+Host_DiskC:Free_Space: 	183.36 GB
+Host_DiskD:Free_Space: 	496.50 GB
+Host_EndTime|2018/11/15 15:23:09
+CheckFeature_BeginTime|2018/11/15 15:23:14
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 15:23:30
+CheckDon'tDelete_BeginTime|2018/11/15 15:23:31
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|C:\Users\Administrator
+CheckDon'tDelete_EndTime|2018/11/15 15:24:00
+GDATA_BeginTime|2018/11/15 15:24:05
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/15 15:24:10
+Outlook_BeginTime|2018/11/15 15:24:12
+Outlook_MailSize|1700
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/15 15:24:32
+Diskinfo_BeginTime|2018/11/15 15:24:38
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|TOSHIBA DT01ACA100 SCSI Disk Device
+Diskinfo_HDDSize|931.510956287384GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/15 15:24:47
+RIT_snapshots_BeginTime|2018/11/15 15:24:51
+RIT_snapshots|2018/11/15 13:50:52
+RIT_snapshots_EndTime|2018/11/15 15:25:31
+Maintain_EndTime|2018/11/15 15:28:17

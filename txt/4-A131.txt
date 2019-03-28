@@ -1,0 +1,51 @@
+Maintain_BeginTime|2018/11/13 14:53:53
+Maintain_OperatorID|IB4
+Host_BeginTime|2018/11/13 14:54:03
+Host_ComputerName|4-A131
+Host_ComputerManufacturer|ASUSTeK Computer INC.
+Host_ComputerModel|ET2012E
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| ET2012E SN:MB-1234567890
+Host_BoardManufacturer|ASUSTeK Computer INC.
+Host_BoardModel|
+Host_BoradProduct|ET2012E
+Host_BoradVersion|Rev 1.xx
+Host_CPUName|Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+Host_Lan_CardName|Realtek PCIe GBE Family Controller
+Host_MACAddress|C8:60:00:47:1F:43
+Host_IPAddress|192.44.14.103
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2016/03/24 
+Host_DiskC:Free_Space: 	193.80 GB
+Host_DiskD:Free_Space: 	143.96 GB
+Host_EndTime|2018/11/13 14:54:04
+CheckFeature_BeginTime|2018/11/13 14:57:28
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|Y
+CheckFeature_IIS-FTPSvc|Y
+CheckFeature_IIS-FTPExtensibility|Y
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/13 14:57:30
+CheckDon'tDelete_BeginTime|2018/11/13 14:57:31
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/13 14:57:41
+GDATA_BeginTime|2018/11/13 14:57:42
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/13 14:57:44
+Outlook_BeginTime|2018/11/13 14:57:45
+Outlook_MailSize|378
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/13 14:58:04
+Diskinfo_BeginTime|2018/11/13 14:58:05
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|ST3500413AS ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/13 14:58:10
+RIT_snapshots_BeginTime|2018/11/13 14:58:13
+RIT_snapshots|2018/11/13 02:30:29
+RIT_snapshots_EndTime|2018/11/13 14:58:32
+Maintain_EndTime|2018/11/13 14:58:38

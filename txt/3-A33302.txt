@@ -1,0 +1,70 @@
+Maintain_BeginTime|2018/11/15 15:43:19
+Maintain_OperatorID|ib3
+Host_BeginTime|2018/11/15 15:43:25
+Host_ComputerName|3-A33302
+Host_ComputerManufacturer|ASUSTeK Computer INC.
+Host_ComputerModel|ET2012E
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| ET2012E SN:MB-1234567890
+Host_BoardManufacturer|ASUSTeK Computer INC.
+Host_BoardModel|
+Host_BoradProduct|ET2012E
+Host_BoradVersion|Rev 1.xx
+Host_CPUName|Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+Host_Lan_CardName|Realtek PCIe GBE Family Controller
+Host_MACAddress|30:85:A9:B4:13:64
+Host_IPAddress|192.44.13.100
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2018/09/05 
+Host_DiskC:Free_Space: 	189.43 GB
+Host_DiskD:Free_Space: 	159.75 GB
+Host_EndTime|2018/11/15 15:43:27
+CheckFeature_BeginTime|2018/11/15 15:45:02
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 15:45:15
+CheckFeature_BeginTime|2018/11/15 15:45:17
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 15:45:18
+CheckDon'tDelete_BeginTime|2018/11/15 15:45:19
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/15 15:45:27
+GDATA_BeginTime|2018/11/15 15:45:29
+GDATA_UpdateStates|N
+GDATA_EndTime|2018/11/15 16:00:38
+Outlook_BeginTime|2018/11/15 16:01:18
+Outlook_MailSize|0
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/15 16:05:30
+Outlook_BeginTime|2018/11/15 16:05:40
+Outlook_MailSize|0
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/15 16:05:47
+Diskinfo_BeginTime|2018/11/15 16:05:49
+
+Diskinfo_HDDManufacturer|ST500DM002-1BD142 ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/15 16:05:55
+Diskinfo_BeginTime|2018/11/15 16:05:57
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|ST500DM002-1BD142 ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/15 16:06:00
+RIT_snapshots_BeginTime|2018/11/15 16:06:04
+RIT_snapshots|2018/11/15 16:06
+RIT_snapshots_EndTime|2018/11/15 16:06:24
+Maintain_EndTime|2018/11/15 16:06:45
+Maintain_EndTime|2018/11/15 16:06:58

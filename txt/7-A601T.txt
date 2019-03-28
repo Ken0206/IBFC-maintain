@@ -1,0 +1,55 @@
+Maintain_BeginTime|2018/11/13 15:17:03
+Maintain_OperatorID|IB7
+Host_BeginTime|2018/11/13 15:17:10
+Host_ComputerName|7-A601T
+Host_ComputerManufacturer|HP
+Host_ComputerModel|HP EliteDesk 800 G3 DM 65W
+Host_ComputerWorkgroup|
+Host_ComputerMemory|32GB
+Host_ComputerSerial| HP EliteDesk 800 G3 DM 65W SN:PGATU0DK985LRY
+Host_BoardManufacturer|HP
+Host_BoardModel|
+Host_BoradProduct|829A
+Host_BoradVersion|KBC Version 06.12
+Host_CPUName|Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection (5) I219-LM
+Host_MACAddress|18:60:24:22:39:DB
+Host_IPAddress|192.44.17.106
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2017/08/07 
+Host_DiskC:Free_Space: 	353.36 GB
+Host_DiskD:Free_Space: 	302.94 GB
+Host_EndTime|2018/11/13 15:17:12
+CheckFeature_BeginTime|2018/11/13 15:17:16
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|Y
+CheckFeature_IIS-FTPSvc|Y
+CheckFeature_IIS-FTPExtensibility|Y
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/13 15:17:25
+CheckDon'tDelete_BeginTime|2018/11/13 15:17:26
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/13 15:17:36
+GDATA_BeginTime|2018/11/13 15:17:39
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/13 15:17:43
+Outlook_BeginTime|2018/11/13 15:17:44
+Outlook_MailSize|
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/13 15:18:20
+Outlook_BeginTime|2018/11/13 15:18:21
+Outlook_MailSize|1070
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/13 15:20:08
+Diskinfo_BeginTime|2018/11/13 15:20:11
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|HGST HTS721010A9E630 SCSI Disk Device
+Diskinfo_HDDSize|931.510956287384GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/13 15:20:19
+RIT_snapshots_BeginTime|2018/11/13 15:20:24
+RIT_snapshots|2018/11/13 14:28:00
+RIT_snapshots_EndTime|2018/11/13 15:21:07
+Maintain_EndTime|2018/11/13 15:21:41

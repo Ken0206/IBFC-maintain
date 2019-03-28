@@ -1,0 +1,52 @@
+Maintain_BeginTime|2018/11/13 13:35:26
+Maintain_OperatorID|IB4
+Host_BeginTime|2018/11/13 13:35:39
+Host_ComputerName|4-A568
+Host_ComputerManufacturer|Hewlett-Packard
+Host_ComputerModel|HP EliteDesk 800 G1 DM
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| HP EliteDesk 800 G1 DM SN:SGH542RZCD
+Host_BoardManufacturer|Hewlett-Packard
+Host_BoardModel|
+Host_BoradProduct|1825
+Host_BoradVersion|
+Host_CPUName|Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection I217-LM
+Host_MACAddress|EC:B1:D7:5F:53:CE
+Host_IPAddress|192.44.14.106
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2015/11/10 
+Host_DiskC:Free_Space: 	180.26 GB
+Host_DiskD:Free_Space: 	146.09 GB
+Host_DiskG:Free_Space: 	14.34 GB
+Host_EndTime|2018/11/13 13:35:40
+CheckFeature_BeginTime|2018/11/13 13:37:34
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/13 13:37:46
+CheckDon'tDelete_BeginTime|2018/11/13 13:37:48
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/13 13:37:56
+GDATA_BeginTime|2018/11/13 13:37:58
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/13 13:38:00
+Outlook_BeginTime|2018/11/13 13:38:08
+Outlook_MailSize|3769
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/13 13:38:33
+Diskinfo_BeginTime|2018/11/13 13:38:37
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|ST500LM0 00-1EJ162-SSHD SCSI Disk Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/13 13:38:42
+RIT_snapshots_BeginTime|2018/11/13 13:38:46
+RIT_snapshots|2018/11/13 08:23:14
+RIT_snapshots_EndTime|2018/11/13 13:39:10
+Maintain_EndTime|2018/11/13 13:39:23

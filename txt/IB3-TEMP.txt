@@ -1,0 +1,57 @@
+Maintain_BeginTime|2018/11/15 16:12:47
+Maintain_OperatorID|ib3
+Host_BeginTime|2018/11/15 16:12:55
+Host_ComputerName|IB3-TEMP
+Host_ComputerManufacturer|ASUSTek Computer INC.
+Host_ComputerModel|ET2011E
+Host_ComputerWorkgroup|
+Host_ComputerMemory|8GB
+Host_ComputerSerial| ET2011E SN:             
+Host_BoardManufacturer|ASUSTek Computer INC.
+Host_BoardModel|
+Host_BoradProduct|ET2011E
+Host_BoradVersion|Rev 1.0
+Host_CPUName|Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz
+Host_Lan_CardName|JMicron PCI Express Gigabit Ethernet Adapter
+Host_MACAddress|70:5A:B6:E6:48:D0
+Host_IPAddress|192.44.13.102
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2015/03/18 
+Host_DiskC:Free_Space: 	190.48 GB
+Host_DiskD:Free_Space: 	135.20 GB
+Host_EndTime|2018/11/15 16:12:56
+CheckFeature_BeginTime|2018/11/15 16:14:24
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 16:14:34
+CheckDon'tDelete_BeginTime|2018/11/15 16:14:36
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|C:\Users\Administrator
+CheckDon'tDelete_EndTime|2018/11/15 16:14:46
+GDATA_BeginTime|2018/11/15 16:14:48
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/15 16:15:10
+GDATA_BeginTime|2018/11/15 16:15:23
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/15 16:15:29
+GDATA_BeginTime|2018/11/15 16:16:14
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/15 16:16:24
+Outlook_BeginTime|2018/11/15 16:22:31
+Outlook_MailSize|0
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/15 16:22:55
+Diskinfo_BeginTime|2018/11/15 16:22:57
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|ST500DM002-1BD142 ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/15 16:23:02
+RIT_snapshots_BeginTime|2018/11/15 16:23:07
+RIT_snapshots|2018/11/15 16:24
+RIT_snapshots_EndTime|2018/11/15 16:25:01
+Maintain_EndTime|2018/11/15 16:25:05

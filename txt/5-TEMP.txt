@@ -1,0 +1,52 @@
+Maintain_BeginTime|2018/11/14 15:00:15
+Maintain_OperatorID|IB5
+Host_BeginTime|2018/11/14 15:00:24
+Host_ComputerName|5-TEMP
+Host_ComputerManufacturer|ASUSTeK COMPUTER INC.
+Host_ComputerModel|BM1AF_BP1AF_BM6AF
+Host_ComputerWorkgroup|
+Host_ComputerMemory|32GB
+Host_ComputerSerial| BM1AF_BP1AF_BM6AF SN:140121340800209
+Host_BoardManufacturer|ASUSTeK COMPUTER INC.
+Host_BoardModel|
+Host_BoradProduct|BM1AF_BP1AF_BM6AF
+Host_BoradVersion|Rev X.0x
+Host_CPUName|Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection I217-V
+Host_MACAddress|E0:3F:49:E7:AE:2B
+Host_IPAddress|192.44.15.104
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2015/12/23 
+Host_DiskC:Free_Space: 	143.01 GB
+Host_DiskD:Free_Space: 	176.19 GB
+Host_DiskZ:Free_Space: 	0.03 GB
+Host_EndTime|2018/11/14 15:00:25
+CheckFeature_BeginTime|2018/11/14 15:00:31
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/14 15:00:39
+CheckDon'tDelete_BeginTime|2018/11/14 15:00:41
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/14 15:00:51
+GDATA_BeginTime|2018/11/14 15:00:54
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/14 15:00:58
+Outlook_BeginTime|2018/11/14 15:01:00
+Outlook_MailSize|0
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/14 15:01:13
+Diskinfo_BeginTime|2018/11/14 15:01:15
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|WDC WD5000AAKX-22ERM SCSI Disk Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/14 15:01:22
+RIT_snapshots_BeginTime|2018/11/14 15:01:28
+RIT_snapshots|2018/11/14 11:24:33
+RIT_snapshots_EndTime|2018/11/14 15:02:03
+Maintain_EndTime|2018/11/14 15:03:40

@@ -1,0 +1,48 @@
+Maintain_BeginTime|2018/11/14 14:54:34
+Maintain_OperatorID|IB6
+Host_BeginTime|2018/11/14 14:54:38
+Host_ComputerName|6-A417
+Host_ComputerManufacturer|ASUSTeK COMPUTER INC.
+Host_ComputerModel|VM62
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| VM62 SN:0A03A0811100474
+Host_BoardManufacturer|ASUSTeK COMPUTER INC.
+Host_BoardModel|
+Host_BoradProduct|VM62
+Host_BoradVersion|To be filled by O.E.M.
+Host_CPUName|Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2015/01/23 
+Host_DiskC:Free_Space: 	221.46 GB
+Host_DiskD:Free_Space: 	471.14 GB
+Host_EndTime|2018/11/14 14:54:40
+CheckFeature_BeginTime|2018/11/14 15:03:32
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/14 15:03:40
+CheckDon'tDelete_BeginTime|2018/11/14 15:03:41
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/14 15:03:45
+GDATA_BeginTime|2018/11/14 15:03:46
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/14 15:03:46
+Outlook_BeginTime|2018/11/14 15:03:48
+Outlook_MailSize|1870
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/14 15:04:07
+Diskinfo_BeginTime|2018/11/14 15:04:10
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|TOSHIBA DT01ACA100 SCSI Disk Device
+Diskinfo_HDDSize|931.510956287384GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/14 15:04:15
+RIT_snapshots_BeginTime|2018/11/14 15:04:19
+RIT_snapshots|2018/11/14 09:13:12
+RIT_snapshots_EndTime|2018/11/14 15:04:40
+Maintain_EndTime|2018/11/14 15:04:47

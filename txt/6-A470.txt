@@ -1,0 +1,51 @@
+Maintain_BeginTime|2018/11/14 15:23:56
+Maintain_OperatorID|IB6
+Host_BeginTime|2018/11/14 15:24:00
+Host_ComputerName|6-A470
+Host_ComputerManufacturer|HP
+Host_ComputerModel|HP EliteDesk 800 G3 DM 65W
+Host_ComputerWorkgroup|
+Host_ComputerMemory|32GB
+Host_ComputerSerial| HP EliteDesk 800 G3 DM 65W SN:PGATU0IWHA6GY0
+Host_BoardManufacturer|HP
+Host_BoardModel|
+Host_BoradProduct|829A
+Host_BoradVersion|KBC Version 06.21
+Host_CPUName|Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection (5) I219-LM
+Host_MACAddress|AC:E2:D3:0F:91:3C
+Host_IPAddress|192.44.16.106
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2017/12/19 
+Host_DiskC:Free_Space: 	431.04 GB
+Host_DiskD:Free_Space: 	317.12 GB
+Host_EndTime|2018/11/14 15:24:02
+CheckFeature_BeginTime|2018/11/14 15:28:09
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/14 15:28:15
+CheckDon'tDelete_BeginTime|2018/11/14 15:28:16
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|C:\Users\a470\AppData,C:\Users\a470\Application Data,C:\Users\a470\Contacts,C:\Users\a470\Downloads,C:\Users\a470\Favorites,C:\Users\a470\IntelGraphicsProfiles,C:\Users\a470\Links,C:\Users\a470\Local Settings,C:\Users\a470\Music,C:\Users\a470\My Documents,C:\Users\a470\Pictures,C:\Users\a470\Saved Games,C:\Users\a470\Searches,C:\Users\a470\Videos
+CheckDon'tDelete_EndTime|2018/11/14 15:28:33
+GDATA_BeginTime|2018/11/14 15:28:35
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/14 15:28:36
+Outlook_BeginTime|2018/11/14 15:28:36
+Outlook_MailSize|230
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/14 15:28:52
+Diskinfo_BeginTime|2018/11/14 15:28:54
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|HGST HTS721010A9E630 SCSI Disk Device
+Diskinfo_HDDSize|931.510956287384GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/14 15:28:57
+RIT_snapshots_BeginTime|2018/11/14 15:29:01
+RIT_snapshots|20018/11/14/ 14:33:25
+RIT_snapshots_EndTime|2018/11/14 15:29:14
+Maintain_EndTime|2018/11/14 15:29:16

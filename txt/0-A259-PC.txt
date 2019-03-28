@@ -1,0 +1,51 @@
+Maintain_BeginTime|2018/11/13 14:18:22
+Maintain_OperatorID|IB7
+Host_BeginTime|2018/11/13 14:18:29
+Host_ComputerName|0-A259-PC
+Host_ComputerManufacturer|ASUSTeK Computer INC.
+Host_ComputerModel|ET2013I-W8
+Host_ComputerWorkgroup|
+Host_ComputerMemory|32GB
+Host_ComputerSerial| ET2013I-W8 SN:MB-1234567890
+Host_BoardManufacturer|ASUSTeK COMPUTER INC.
+Host_BoardModel|
+Host_BoradProduct|ET2013I-W8
+Host_BoradVersion|Rev 1.xx
+Host_CPUName|Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+Host_Lan_CardName|Realtek PCIe GBE Family Controller
+Host_MACAddress|E0:3F:49:0D:2B:8B
+Host_IPAddress|192.44.17.105
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2014/04/24 
+Host_DiskC:Free_Space: 	120.83 GB
+Host_DiskD:Free_Space: 	91.52 GB
+Host_EndTime|2018/11/13 14:18:31
+CheckFeature_BeginTime|2018/11/13 14:23:38
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/13 14:23:41
+CheckDon'tDelete_BeginTime|2018/11/13 14:23:42
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|C:\Users\Administrator,C:\Users\user
+CheckDon'tDelete_EndTime|2018/11/13 14:23:53
+GDATA_BeginTime|2018/11/13 14:23:54
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/13 14:23:59
+Outlook_BeginTime|2018/11/13 14:24:00
+Outlook_MailSize|3220
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/13 14:24:27
+Diskinfo_BeginTime|2018/11/13 14:24:33
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|ST500DM002-1BD142 ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/13 14:24:38
+RIT_snapshots_BeginTime|2018/11/13 14:24:42
+RIT_snapshots|2018/11/13 14:22:11
+RIT_snapshots_EndTime|2018/11/13 14:25:24
+Maintain_EndTime|2018/11/13 14:25:34

@@ -1,0 +1,59 @@
+Maintain_BeginTime|2018/11/12 15:48:17
+Maintain_OperatorID|IB9
+Host_BeginTime|2018/11/12 15:48:30
+Host_ComputerName|9-A329
+Host_ComputerManufacturer|HP
+Host_ComputerModel|HP EliteDesk 800 G2 DM 65W
+Host_ComputerWorkgroup|
+Host_ComputerMemory|32GB
+Host_ComputerSerial| HP EliteDesk 800 G2 DM 65W SN:PEWKU0E0Z2424Z
+Host_BoardManufacturer|HP
+Host_BoardModel|
+Host_BoradProduct|8056
+Host_BoradVersion|KBC Version 05.22
+Host_CPUName|Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection (2) I219-LM
+Host_MACAddress|FC:3F:DB:0B:B9:AE
+Host_IPAddress|192.44.19.100
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2016/06/20 
+Host_DiskC:Free_Space: 	188.99 GB
+Host_DiskD:Free_Space: 	158.75 GB
+Host_EndTime|2018/11/12 15:48:32
+CheckFeature_BeginTime|2018/11/12 15:50:27
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/12 15:51:16
+CheckFeature_BeginTime|2018/11/12 15:52:01
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|N
+CheckFeature_IIS-FTPSvc|N
+CheckFeature_IIS-FTPExtensibility|N
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/12 15:52:02
+CheckDon'tDelete_BeginTime|2018/11/12 15:52:04
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/12 15:52:12
+GDATA_BeginTime|2018/11/12 15:52:13
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/12 15:52:14
+Outlook_BeginTime|2018/11/12 15:52:17
+Outlook_MailSize|1760
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/12 15:52:40
+Diskinfo_BeginTime|2018/11/12 15:52:44
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|HP Secure Hard Disk ATA Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/12 15:52:49
+RIT_snapshots_BeginTime|2018/11/12 15:52:54
+RIT_snapshots|2018/11/12 14:23:46
+RIT_snapshots_EndTime|2018/11/12 15:53:15
+Maintain_EndTime|2018/11/12 15:53:26

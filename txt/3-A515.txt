@@ -1,0 +1,59 @@
+Maintain_BeginTime|2018/11/15 14:37:37
+Maintain_OperatorID|ib3
+Host_BeginTime|2018/11/15 14:38:02
+Host_ComputerName|3-A515
+Host_ComputerManufacturer|Hewlett-Packard
+Host_ComputerModel|HP EliteDesk 800 G1 DM
+Host_ComputerWorkgroup|
+Host_ComputerMemory|16GB
+Host_ComputerSerial| HP EliteDesk 800 G1 DM SN:SGH542RZCK
+Host_BoardManufacturer|Hewlett-Packard
+Host_BoardModel|
+Host_BoradProduct|1825
+Host_BoradVersion|
+Host_CPUName|Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Host_Lan_CardName|Intel(R) Ethernet Connection I217-LM
+Host_MACAddress|EC:B1:D7:5D:AF:F9
+Host_IPAddress|192.44.13.104
+Host_OS|Microsoft Windows 7 ±M·~ª© 
+Host_OS_InstallDate|2015/11/10 
+Host_DiskC:Free_Space: 	100.81 GB
+Host_DiskD:Free_Space: 	107.43 GB
+Host_EndTime|2018/11/15 14:38:03
+CheckFeature_BeginTime|2018/11/15 14:42:43
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|Y
+CheckFeature_IIS-FTPSvc|Y
+CheckFeature_IIS-FTPExtensibility|Y
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 14:43:05
+CheckFeature_BeginTime|2018/11/15 14:43:08
+CheckFeature_SimpleTCP|Y
+CheckFeature_TelnetClient|Y
+CheckFeature_IIS-ManagementConsole|Y
+CheckFeature_IIS-FTPSvc|Y
+CheckFeature_IIS-FTPExtensibility|Y
+CheckFeature_State|Y
+CheckFeature_EndTime|2018/11/15 14:43:11
+CheckDon'tDelete_BeginTime|2018/11/15 14:43:12
+CheckDon'tDelete_State|Y
+CheckDon'tDelete_NoDocumentPath|
+CheckDon'tDelete_EndTime|2018/11/15 14:43:26
+GDATA_BeginTime|2018/11/15 14:43:30
+GDATA_UpdateStates|Y
+GDATA_EndTime|2018/11/15 14:43:46
+Outlook_BeginTime|2018/11/15 14:43:51
+Outlook_MailSize|1820
+Outlook_TooLargeMailSize|
+Outlook_EndTime|2018/11/15 14:45:40
+Diskinfo_BeginTime|2018/11/15 14:45:52
+Diskinfo_HealthStatus|¨}¦n
+Diskinfo_HDDManufacturer|TOSHIBA MQ02ABF050H SCSI Disk Device
+Diskinfo_HDDSize|465.759308338165GB
+Diskinfo_HDDSerial|
+Diskinfo_EndTime|2018/11/15 14:45:54
+RIT_snapshots_BeginTime|2018/11/15 14:46:06
+RIT_snapshots|2018/11/15 14:46
+RIT_snapshots_EndTime|2018/11/15 14:46:40
+Maintain_EndTime|2018/11/15 14:47:04
