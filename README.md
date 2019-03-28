@@ -5,7 +5,7 @@
 將 IBFC-maintain.py 放在 txt 目錄
 直接執行 IBFC-maintain.py 就可產出各 excel file
 ```
-可正檔處理檔名︰
+可正確處理檔名︰
 ```1-computer_name.txt```
 
 ---
